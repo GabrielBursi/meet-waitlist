@@ -17,15 +17,15 @@ export const theme = {
         light: 300,
         normal: 400,
         bold: 600,
-        sizes: {
-            xsmall: '1.2rem',
-            small: '1.4rem',
-            medium: '1.6rem',
-            large: '1.8rem',
-            xlarge: '2.0rem',
-            xxlarge: '2.8rem',
-            huge: '5rem'
-        }
+		sizes: {
+			xsmall: '1.4rem',
+			small: '1.6rem',
+			medium: '1.8rem',
+			large: '2.0rem',
+			xlarge: '2.4rem',
+			xxlarge: '4.2rem',
+			huge: '6.4rem'
+		}
     },
     colors: {
 		primary: '#32f5c8',
